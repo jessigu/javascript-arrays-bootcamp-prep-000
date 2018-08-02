@@ -8,3 +8,11 @@ function addElementToBeginningOfArray(array, element) {
 function destructivelyAddElementToBeginningOfArray(array, element) {
 
 }
+
+function addElementToEndofArray() {
+  
+}
+
+function destructivelyAddElementToEndOfArray() {
+  
+}
